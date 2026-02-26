@@ -1,2 +1,4 @@
 var s = "steffi"
 console.log(s)
+var r = 100
+console.log(r)
